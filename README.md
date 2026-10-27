@@ -1,6 +1,9 @@
 # FA-2-Water-Buddy-App---Jaydeep-Desai
 WaterBuddy 💧
 Link:
+
+
+
 Your daily hydration companion
 WaterBuddy is a friendly, interactive hydration-tracking app designed to
 help users build a consistent water-drinking habit. It combines simple
